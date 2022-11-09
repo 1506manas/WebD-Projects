@@ -1,0 +1,55 @@
+.body{
+    background-image: url(mountain2.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    
+}
+.text1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: underline;
+}
+.text2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+.text3{
+    color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+.text4{
+    color: rgb(243, 225, 135);
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+.text5{
+    color: rgb(177, 245, 179);
+    text-align: center;
+    font-weight: bold;
+    font-size: 19px;
+}
+.heading{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size:xx-large;
+    color: rgb(52, 71, 47);
+}
+.img{
+    border: 2px solid white;
+    height: 300px;
+    width: 300px;
+    float: right;
+    box-shadow: 1px 2px 10px 5px white;
+}
+.img1{
+    border: 2px solid white;
+    height: 300px;
+    width: 300px;
+    float: left;
+    box-shadow: 1px 2px 10px 5px white;
+}
